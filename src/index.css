@@ -2,8 +2,7 @@
 
 @font-face {
   font-family: "Manrope";
-  src: url("./assets/webfonts/Manrope/Manrope-VariableFont_wght.ttf")
-    format("truetype");
+  src: url("/webfonts/Manrope/Manrope-VariableFont_wght.ttf") format("truetype");
   font-weight: 100 900;
   font-style: normal;
   font-display: swap;

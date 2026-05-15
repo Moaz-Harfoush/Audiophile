@@ -5,8 +5,6 @@ const Product = () => {
   return (
     <>
       <ProductDetails />
-      <Shop />
-      <BestGear />
     </>
   );
 };
